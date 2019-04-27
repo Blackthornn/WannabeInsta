@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "796050637407",
+    "firebase_url": "https://wannabeinsta.firebaseio.com",
+    "project_id": "wannabeinsta",
+    "storage_bucket": "wannabeinsta.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:796050637407:android:0526387a2474e4d8",
+        "android_client_info": {
+          "package_name": "com.theblackthorn.igclonepractice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "796050637407-jufnpejtcjs7ags971lets6pehnbb5vr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.theblackthorn.igclonepractice",
+            "certificate_hash": "166df3142fd534eb88bd474832d7549c2b1f6c3e"
+          }
+        },
+        {
+          "client_id": "796050637407-j3jcqs1mv4k9c4coidjmqrimk4fv81si.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDe4SaLbnuR3p-Kq-LAl8HRShCuSoBEC-c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "796050637407-j3jcqs1mv4k9c4coidjmqrimk4fv81si.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
